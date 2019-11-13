@@ -6,9 +6,9 @@ A [Toronto JavaScript](https://www.meetup.com/torontojs/) meetup: [JS workshop o
 
 <https://a11yproject.com/>
 
-Disability reflects interaction of features of person and features of society person in. so much more broader than physical, can also be situational (and temporary) impairments.
+Disability reflects interaction of features of person and features of society that person's in. So much more broader than physical, can also be situational (and temporary) impairments. (Aside: more examples [here](https://github.com/hchiam/web-accessibility-course-notes#web-accessibility-a11y-course-notes).)
 
-A11y doesn't just help those with disabilities: curb-side effect (not just for wheelchair users; also helps people with carriages/carts, or letting small babies be able to step up).
+Good a11y can help everyone, it doesn't just help those with disabilities: curb-side effect (not just for wheelchair users; also helps people with carriages/carts, or letting small babies be able to step up).
 
 ## SHERRY'S CORE CHECKLIST (disclosure: opinion)
 
